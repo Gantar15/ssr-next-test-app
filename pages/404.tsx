@@ -9,7 +9,8 @@ export default function Error(){
             <style jsx>
                 {`
                     h1{
-                        text-aligne: center;
+                        text-align: center;
+                        color: red;
                     }
                 `}
             </style>
