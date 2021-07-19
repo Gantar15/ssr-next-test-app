@@ -1,0 +1,13 @@
+
+.link{
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+
+    &:hover{
+        color: rgb(221, 221, 221);
+    }
+
+    &:nth-of-type(n+2){
+        margin-left: 10px;
+    }
+}
