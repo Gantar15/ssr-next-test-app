@@ -6,7 +6,7 @@ const MainContainer: FC<any> = ({children, title}) => {
     return (
         <>
             <Head>
-                <meta keywords="ssr next react egor gnida"></meta>
+                <meta name="keywords" content="ssr next react egor gnida"></meta>
                 <title>{title}</title>
             </Head>
             <nav className="navbar">

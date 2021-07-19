@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build": "next build",
-    "start": "туче start",
+    "start": "next start",
     "dev": "next dev"
   },
   "eslintConfig": {
